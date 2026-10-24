@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <!-- 修改右侧文本，保留 name。copy_编号 是其他页面文案；位置索引见 docs/COPY-CATALOG.md。 -->
+    <string name="copy_001" formatted="false">"本次升级已结束旧版冷却，今日已用量保留"</string>
+    <string name="copy_002" formatted="false">"‹  返回"</string>
+    <string name="app_name" formatted="false">"GAP"</string>
+    <string name="home_help" formatted="false">"使用说明 ⓘ"</string>
+    <string name="copy_003" formatted="false">"正在检查保护状态"</string>
+    <string name="home_portion_title" formatted="false">"本轮剩余额度"</string>
+    <string name="copy_004" formatted="false">"仅在前台使用所选应用时扣除"</string>
+    <string name="home_daily_title" formatted="false">"今日剩余"</string>
+    <string name="copy_005" formatted="false">"60:00 / 60 分钟"</string>
+    <string name="home_section" formatted="false">"你的使用节奏"</string>
+    <string name="protect_target" formatted="false">"保护对象"</string>
+    <string name="copy_006" formatted="false">" · 整个应用计时"</string>
+    <string name="rules_entry" formatted="false">"规则设置"</string>
+    <string name="permissions_entry" formatted="false">"权限与运行检查"</string>
+    <string name="copy_007" formatted="false">"授权、后台运行与暂停保护"</string>
+    <string name="copy_008" formatted="false">"给刷屏，留个间隔。"</string>
+    <string name="copy_009" formatted="false">"每份 "</string>
+    <string name="copy_010" formatted="false">" 分钟  /  GAP "</string>
+    <string name="copy_011" formatted="false">" 分钟"</string>
+    <string name="copy_012" formatted="false">"按自己的节奏"</string>
+    <string name="copy_013" formatted="false">"使用 "</string>
+    <string name="copy_014" formatted="false">"调整使用与休息"</string>
+    <string name="copy_015" formatted="false">" 分钟使用 · "</string>
+    <string name="copy_016" formatted="false">" 分钟 GAP"</string>
+    <string name="copy_017" formatted="false">"○  保护已暂停 · 点击管理"</string>
+    <string name="status_consent_missing" formatted="false">"!  尚未授权 · 点击完成设置"</string>
+    <string name="status_disconnected" formatted="false">"!  保护未连接 · 点击检查"</string>
+    <string name="copy_018" formatted="false">"!  未找到目标应用 · 点击检查"</string>
+    <string name="copy_019" formatted="false">"!  拦截异常 · 点击检查"</string>
+    <string name="status_connected" formatted="false">"●  保护服务已连接"</string>
+    <string name="protection_title" formatted="false">"保护状态"</string>
+    <string name="paused_title" formatted="false">"已暂停"</string>
+    <string name="copy_020" formatted="false">"不计时、不拦截 · 已有额度保留"</string>
+    <string name="copy_021" formatted="false">"今日额度已用完"</string>
+    <string name="rest_tomorrow" formatted="false">"明日恢复"</string>
+    <string name="copy_022" formatted="false">"每天零点重置 · GAP 结束不额外发放"</string>
+    <string name="home_cooldown_title" formatted="false">"距离下一份额度"</string>
+    <string name="home_cooldown_hint" formatted="false">"现在是你的 GAP · 结束后恢复一份额度"</string>
+    <string name="copy_023" formatted="false">"仅在前台使用"</string>
+    <string name="copy_024" formatted="false">"时扣除"</string>
+    <string name="brand_slogan" formatted="false">"You need a GAP."</string>
+    <string name="intro_title_2" formatted="false">"一份额度，分着用。"</string>
+    <string name="intro_title_3" formatted="false">"留一个 GAP。"</string>
+    <string name="intro_title_4" formatted="false">"先解释，再请你授权。"</string>
+    <string name="copy_025" formatted="false">"GAP帮助你按次限制应用使用。默认每天共 60 分钟，每份额度 5 分钟。它是自我约定工具，不是广告，也不收费解锁。"</string>
+    <string name="copy_026" formatted="false">"打开抖音开始扣时，切后台或锁屏暂停。用了 2 分钟再退出，下次仍剩 3 分钟。额度不会因为反复打开而重置。"</string>
+    <string name="copy_027" formatted="false">"一份用完显示“You need a GAP.”全屏休息画面，休息 10 分钟后再恢复一份；不使用也不囤积。每天零点，单日和本轮额度、旧冷却一起重置。"</string>
+    <string name="copy_028" formatted="false">"无障碍服务用于识别前台应用包名，并显示到时拦截。程序会取得窗口根节点的包名，不遍历或保存屏幕文字、不读输入、不截图、不联网。你可以随时在系统设置停用。"</string>
+    <string name="copy_029" formatted="false">"GAP  /  使用说明  "</string>
+    <string name="copy_030" formatted="false">"每次打开时显示这份说明"</string>
+    <string name="copy_031" formatted="false">"已阅读，进入首页"</string>
+    <string name="copy_032" formatted="false">"Demo 边界：关闭无障碍、卸载或清除数据可绕过限制；分屏、画中画和跨设备使用暂不保证。不要手动修改日期来验证重置，请使用规则演示。"</string>
+    <string name="copy_033" formatted="false">"继续"</string>
+    <string name="copy_034" formatted="false">"上一步"</string>
+    <string name="permissions_title" formatted="false">"保护，需要你的允许。"</string>
+    <string name="copy_035" formatted="false">"只申请实现额度保护所需的能力。"</string>
+    <string name="copy_036" formatted="false">"● 无障碍服务已连接"</string>
+    <string name="copy_037" formatted="false">"○ 无障碍服务未连接"</string>
+    <string name="copy_038" formatted="false">"识别你选择的应用是否处于前台，并在额度耗尽时显示拦截。我们仅处理包名，不读取或保存屏幕正文、输入和截图。所有额度保存在本机。"</string>
+    <string name="copy_039" formatted="false">"查看系统无障碍设置"</string>
+    <string name="copy_040" formatted="false">"阅读并前往授权"</string>
+    <string name="copy_041" formatted="false">"同意使用无障碍能力？"</string>
+    <string name="copy_042" formatted="false">"系统将允许GAP检查应用窗口并显示遮罩。实际使用仅限前台包名检测、额度保护和返回桌面；不读取屏幕文字或上传数据。你可以随时在系统设置撤销。\n\n进入系统后找到「GAP · 使用额度保护」并开启。侧载安装如提示受限，请先到应用信息右上角允许受限设置。"</string>
+    <string name="copy_043" formatted="false">"暂不"</string>
+    <string name="copy_044" formatted="false">"同意并打开设置"</string>
+    <string name="copy_045" formatted="false">"一加后台运行设置"</string>
+    <string name="copy_046" formatted="false">"应用信息 → 耗电管理 → 允许后台活动；如有自启动选项请允许"</string>
+    <string name="copy_047" formatted="false">"状态通知（可选）"</string>
+    <string name="copy_048" formatted="false">"通知栏显示余额或冷却；不影响核心授权"</string>
+    <string name="copy_049" formatted="false">"重新检查"</string>
+    <string name="copy_050" formatted="false">"从系统设置返回后自动检查，也可以手动刷新"</string>
+    <string name="copy_051" formatted="false">"当前诊断"</string>
+    <string name="copy_052" formatted="false">"\n目标："</string>
+    <string name="copy_053" formatted="false">"\n服务："</string>
+    <string name="copy_054" formatted="false">"已连接"</string>
+    <string name="copy_055" formatted="false">"未连接"</string>
+    <string name="copy_056" formatted="false">"暂未记录拦截错误"</string>
+    <string name="copy_057" formatted="false">"\n\n此处检查的是服务连接状态，实际保护还需完成一次真机拦截验证。"</string>
+    <string name="copy_058" formatted="false">"恢复保护"</string>
+    <string name="copy_059" formatted="false">"暂停保护…"</string>
+    <string name="copy_060" formatted="false">"恢复保护，沿用已有额度"</string>
+    <string name="copy_061" formatted="false">"暂停保护，需要三次确认"</string>
+    <string name="copy_062" formatted="false">"保护已恢复，沿用原有额度"</string>
+    <string name="copy_063" formatted="false">"已取消暂停，请检查无障碍服务是否连接"</string>
+    <string name="copy_064" formatted="false">"当前不计时、不拦截。恢复后沿用余额；冷却按实际时间继续。"</string>
+    <string name="copy_065" formatted="false">"如需暂时停止计时和拦截，请完成三次确认。"</string>
+    <string name="copy_066" formatted="false">"先想一想 · 1/3"</string>
+    <string name="copy_067" formatted="false">"再确认一次 · 2/3"</string>
+    <string name="copy_068" formatted="false">"最后确认 · 3/3"</string>
+    <string name="copy_069" formatted="false">"暂停后，GAP将不再对所选应用计时或拦截。你现在确实需要暂停吗？"</string>
+    <string name="copy_070" formatted="false">"已有使用量和剩余额度不会被清除。冷却按实际时间继续，零点仍正常重置额度。暂停不会额外发放时间。"</string>
+    <string name="copy_071" formatted="false">"暂停会一直保持，直到你手动恢复，重启和跨天也不会自动开启保护。你可以在本页底部点击“恢复保护”。"</string>
+    <string name="copy_072" formatted="false">"确认暂停保护"</string>
+    <string name="copy_073" formatted="false">"继续确认"</string>
+    <string name="copy_074" formatted="false">"保持保护"</string>
+    <string name="copy_075" formatted="false">"秒）"</string>
+    <string name="copy_076" formatted="false">"保护已暂停，可在原入口恢复"</string>
+    <string name="copy_077" formatted="false">"无法打开，请到系统设置手动查找"</string>
+    <string name="copy_078" formatted="false">"选一个，慢慢来。"</string>
+    <string name="copy_079" formatted="false">"选择需要保护的应用，无需采样页面。同时保护一个应用，额度不随更换而重置。"</string>
+    <string name="copy_080" formatted="false">"搜索已安装应用"</string>
+    <string name="copy_081" formatted="false">"正在获取应用列表…"</string>
+    <string name="copy_082" formatted="false">"保护 "</string>
+    <string name="copy_083" formatted="false">"更换应用不会重新领取额度，也不会清除冷却。计时覆盖整个应用，包括聊天等页面。"</string>
+    <string name="copy_084" formatted="false">"取消"</string>
+    <string name="copy_085" formatted="false">"选择"</string>
+    <string name="copy_086" formatted="false">"没有找到应用。请先安装抖音正式版，或换个关键词。"</string>
+    <string name="rules_title" formatted="false">"按自己的节奏。"</string>
+    <string name="copy_087" formatted="false">"默认每天 60 分钟，每份使用 5 分钟，GAP 休息 10 分钟。"</string>
+    <string name="rule_daily_label" formatted="false">"每日额度 · 分钟"</string>
+    <string name="rule_portion_label" formatted="false">"每份额度 · 分钟"</string>
+    <string name="rule_gap_label" formatted="false">"用完后冷却 · 分钟"</string>
+    <string name="copy_088" formatted="false">"保存后立即生效。修改冷却时长，会扣除已经等待的时间；若已等够，立即恢复一份额度，仍受今日余额限制。已使用时长保留，非冷却中的当前份额不会补发。"</string>
+    <string name="rules_save" formatted="false">"保存规则"</string>
+    <string name="copy_089" formatted="false">"已保存，冷却已按新规则重算"</string>
+    <string name="copy_090" formatted="false">"请输入 1–1440 的整数；每份额度不能超过每日额度"</string>
+    <string name="copy_091" formatted="false">"规则演示"</string>
+    <string name="copy_092" formatted="false">"独立沙盒：10 秒额度 / 20 秒冷却，不修改真实额度"</string>
+    <string name="copy_093" formatted="false">"每次打开时显示使用说明"</string>
+    <string name="copy_094" formatted="false">"先试一次。"</string>
+    <string name="copy_095" formatted="false">"独立沙盒，只验证规则；不控制抖音，不改变你的真实余额。"</string>
+    <string name="copy_096" formatted="false">"本轮："</string>
+    <string name="copy_097" formatted="false">"\n今日："</string>
+    <string name="copy_098" formatted="false">"\n冷却："</string>
+    <string name="copy_099" formatted="false">"模拟前台使用 5 秒"</string>
+    <string name="copy_100" formatted="false">"模拟离开 / 等待 10 秒"</string>
+    <string name="copy_101" formatted="false">"重置这次沙盒"</string>
+    <string name="copy_102" formatted="false">"预览休息画面 · 不改变额度"</string>
+    <string name="copy_103" formatted="false">"预览休息画面，不改变实际额度"</string>
+    <string name="rest_home_button" formatted="false">"回到桌面 ↗"</string>
+    <string name="copy_104" formatted="false">"间隔结束"</string>
+    <string name="copy_105" formatted="false">"返回 · 画面预览"</string>
+    <string name="copy_106" formatted="false">"You need a GAP. 休息间隔，剩余10分钟"</string>
+    <string name="copy_107" formatted="false">"今日额度已用完，明日零点恢复"</string>
+    <string name="copy_108" formatted="false">"You need a GAP. 休息间隔剩余 "</string>
+    <string name="copy_109" formatted="false">"额度保护状态"</string>
+    <string name="copy_110" formatted="false">"显示GAP是否连接与剩余额度"</string>
+    <string name="copy_111" formatted="false">"拦截页未打开："</string>
+    <string name="copy_112" formatted="false">"暂不计时、不拦截 · 可在权限与运行检查中恢复"</string>
+    <string name="copy_113" formatted="false">"今日用完 · 明日零点恢复"</string>
+    <string name="copy_114" formatted="false">"冷却剩余 "</string>
+    <string name="copy_115" formatted="false">"本轮 "</string>
+    <string name="copy_116" formatted="false">" · 今日 "</string>
+    <string name="copy_117" formatted="false">"GAP · 保护已暂停"</string>
+    <string name="copy_118" formatted="false">"GAP · 保护服务已连接"</string>
+    <string name="default_target_name" formatted="false">"抖音"</string>
+    <string name="service_name" formatted="false">"GAP · 使用额度保护"</string>
+    <string name="service_description" formatted="false">"按你设置的额度限制抖音或所选应用。检测前台应用包名，使用无障碍遮罩在额度耗尽时拦截。不读取屏幕文字、输入内容或截图，不联网。请先在GAP内阅读说明并同意。可随时在系统设置关闭。"</string>
+</resources>

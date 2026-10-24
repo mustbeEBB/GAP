@@ -1,0 +1,15 @@
+<resources>
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item><item name="android:colorAccent">#2168D5</item>
+        <item name="android:windowLightStatusBar">true</item><item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item><item name="android:windowBackground">#F3F4F7</item>
+        <item name="android:statusBarColor">#F3F4F7</item><item name="android:navigationBarColor">#F3F4F7</item>
+        <item name="android:alertDialogTheme">@style/ConfirmTheme</item><item name="android:colorControlNormal">#696C73</item>
+    </style>
+    <style name="ConfirmTheme" parent="android:style/Theme.Material.Light.Dialog.Alert">
+        <item name="android:colorAccent">#2168D5</item><item name="android:windowBackground">@drawable/dialog_background</item>
+        <item name="android:colorBackground">#FFFFFF</item><item name="android:textColorPrimary">#17181A</item><item name="android:textColorSecondary">#696C73</item>
+        <item name="android:windowMinWidthMajor">88%</item><item name="android:windowMinWidthMinor">88%</item>
+    </style>
+    <style name="BlockTheme" parent="AppTheme"><item name="android:windowFullscreen">true</item><item name="android:windowIsTranslucent">false</item><item name="android:windowDisablePreview">true</item><item name="android:windowActionModeOverlay">true</item></style>
+</resources>
